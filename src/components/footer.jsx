@@ -25,7 +25,7 @@ const Footer = () => {
       </div>
       <div className="foot mt-[120px] flex justify-around items-center">
         <div className="right flex  items-center gap-2 flex-1">
-            <img src="/src/assets/image 50.svg" alt="" />
+            <img src=" /image 50.svg" alt="" />
             <p className="font-bold text-[21px] text-white">New Business</p>
         </div>
         <p className="font-normal text-sm text-white">Copyright 2021. All rights reserved.</p>

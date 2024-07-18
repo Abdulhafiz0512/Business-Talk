@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header className="flex justify-around items-center pt-5 bg-white   ">
       <div className="logo flex justify-center items-center gap-2">
-        <img src="/src/assets/image 48.svg" alt="" />
+        <img src=" /image 48.svg" alt="" />
         <div className="text-[22px]  font-[700] text-black"><span className="text-[#8540F5]">Talk </span> Business</div>
       </div>
 
